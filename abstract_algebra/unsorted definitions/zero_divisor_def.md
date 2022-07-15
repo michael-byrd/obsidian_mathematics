@@ -1,0 +1,1 @@
+**Zero Divisor** - Let $R$ be a ring. An element $a \in R$ is a zero divisor if $a \neq 0$ and there exists a $b \in R$ such that $ab = 0$ or $ba = 0.$

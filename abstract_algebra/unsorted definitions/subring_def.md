@@ -1,0 +1,1 @@
+**Subring** - Let $R$ be a ring. A subset of $R$ that is also a ring under the same operations is called a *subring.*

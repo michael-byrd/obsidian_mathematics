@@ -1,0 +1,1 @@
+**Ring Homomorphism Kernel** - The *kernel* of $\phi$ (in the ring sense) is the kernel of $\phi$ as a group homomorphism.

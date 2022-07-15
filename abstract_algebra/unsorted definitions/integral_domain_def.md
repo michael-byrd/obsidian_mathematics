@@ -1,0 +1,1 @@
+**Integral Domains** - A nontrivial commutative ring with no [[zero_divisor_def|zero divisors]] is an *integral domain.*

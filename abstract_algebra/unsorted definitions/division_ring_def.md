@@ -1,0 +1,1 @@
+**Division Ring** - Let $R$ be a nontrivial ring with identity. If every $a \in R\setminus \{0\}$ has a multiplicative inverse, then $R$ is a *division ring.*

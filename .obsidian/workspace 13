@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "532183694bdcc709",
+    "type": "split",
+    "children": [
+      {
+        "id": "e13f96728731d84d",
+        "type": "split",
+        "children": [
+          {
+            "id": "7d53ca4ed8b80bcf",
+            "type": "leaf",
+            "dimension": 54.686346863468636,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "abstract_algebra/unsorted definitions/principal_ideal_domain_def.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b47f05fe7b015e95",
+            "type": "leaf",
+            "dimension": 45.313653136531364,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "abstract_algebra/daily_abstract_algebra/abstract_algebra_2022_07_13.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "803c4d27ddf217df",
+    "type": "split",
+    "children": [
+      {
+        "id": "97dba44f821c3b9f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2452197e87e1ed5c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7fa4bd366e98d328",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "689445d3e673ef01",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7194a3c5c9688c57",
+    "type": "split",
+    "children": [
+      {
+        "id": "d34d44f8b400412a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a5d6b62f918e6de",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "4d8cf3cb105d97f9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "abstract_algebra/unsorted definitions/principal_ideal_domain_def.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d6f97817a050986c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "abstract_algebra/unsorted definitions/principal_ideal_domain_def.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a2c6be2403f35dda",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "661f2cfa0ae48ade",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "abstract_algebra/unsorted definitions/principal_ideal_domain_def.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "7d53ca4ed8b80bcf",
+  "lastOpenFiles": [
+    "abstract_algebra/daily_abstract_algebra/abstract_algebra_2022_07_13.md",
+    "abstract_algebra/unsorted definitions/principal_ideal_domain_def.md",
+    "abstract_algebra/unsorted definitions/maximal_ideal_def.md",
+    "abstract_algebra/unsorted definitions/field_def.md",
+    "algebraic_topology/algebraic_topology_master_note.md",
+    "abstract_algebra/topical_notes/prime_ideal_topic.md",
+    "abstract_algebra/unsorted definitions/prime_ideal_def.md",
+    "abstract_algebra/unsorted definitions/abelian_def.md",
+    "linear_algebra/topical_notes/directSumTopic.md",
+    "abstract_algebra/group_theory_def/group_def.md"
+  ]
+}

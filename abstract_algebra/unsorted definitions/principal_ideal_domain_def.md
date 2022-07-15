@@ -1,0 +1,1 @@
+**Principial Ideal Domain** - A *principal ideal domain* is an integral domain where every ideal is principal. 

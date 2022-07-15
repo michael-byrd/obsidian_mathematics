@@ -1,0 +1,1 @@
+**Contractible** - A space which is [[homotopy_equivalence_def|homotopy equivalent]] to a point is *contractible*. 

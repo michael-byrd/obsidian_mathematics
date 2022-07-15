@@ -1,0 +1,1 @@
+**Homotopy Equivalence** - Let $X$ and $Y$ be two topological spaces. A continuous map $f: X \rightarrow Y$ is a *homotopy equivalence* if there exists a continuous map $g:Y \rightarrow X$ such that $f\circ g \simeq \mathbb{1}_Y$ ([[homotopy_def|homotopic]]) and $g\circ f \simeq \mathbb{1}_X.$ When such an $f$ exists, we say that $X$ and $Y$ are homotopy equivalent.

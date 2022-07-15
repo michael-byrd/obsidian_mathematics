@@ -1,0 +1,1 @@
+**Abelian** - If a group has the property that $ab=ba$ for all $a,b \in G,$ we say the group is *Abelian.* 

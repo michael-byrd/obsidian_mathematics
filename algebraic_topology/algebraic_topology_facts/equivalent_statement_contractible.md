@@ -1,0 +1,1 @@
+A topological space $X$ being [[contractible_def|contractible]] is equivalent to the identity $\mathbb{1}_X$ being [[nullhomotopic_def|nullhomotopic]]. Contractibility is slightly weaker than [[deformation_retreaction_def|deformation retractability]] to a point. 

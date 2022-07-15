@@ -1,0 +1,1 @@
+**Inflation** - The process that reverses contraction is called *inflation.*

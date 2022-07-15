@@ -1,0 +1,1 @@
+**Homotopy** - Let $X$ and $Y$ be topological spaces. A *homotopy* is a continuous map $F: X \times I \rightarrow Y.$ Define $f_0:=F(\cdot, 0)$ and $f_1:=F(\cdot, 1).$ Then the two maps $f_0: X \rightarrow Y$ and $f_1:X\rightarrow Y$ are *homotopic*. We write this relationship as $f_0 \simeq f_1.$ 

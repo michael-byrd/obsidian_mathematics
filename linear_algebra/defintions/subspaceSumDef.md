@@ -1,0 +1,1 @@
+**Subspace Sum** - Let $U, W$ be subspace of a vector sapce $V.$ The set $$U + W = \{u + w : u \in U, w \in W\}$$  is a subspace of $V$ called the *sum* of $U$ and $W.$

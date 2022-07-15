@@ -1,0 +1,1 @@
+**Span** - Let $S$ be a nonempty subset of a vector space $V.$ The *span* of $S,$ denoted $\operatorname{span}(S),$ is the set consisting of all [[linearCombinationDef|linear combinations]] of the vectors in $S.$ 

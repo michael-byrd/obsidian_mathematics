@@ -1,0 +1,1 @@
+**Maximal Ideal** - Let $R$ be a nontrivial ring with identity. An ideal $M$ is maximal if $M$ is a proper ideal and the only ideals containing $M$ are $M$ and $R.$ 

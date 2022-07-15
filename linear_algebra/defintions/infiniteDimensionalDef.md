@@ -1,0 +1,1 @@
+**Infinite Dimensional** - A vector space that is not [[finiteDimensionalDef|finite-dimensional]] is called infinite-dimensional.

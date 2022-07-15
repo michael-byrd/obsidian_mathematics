@@ -1,0 +1,1 @@
+Let $R$ be a ring with identity and $1 \neq 0.$ An ideal $P$ is a *prime ideal* if $P$ is a proper ideal and $ab \in P$ implies either $a \in P$ or $b \in P.$  

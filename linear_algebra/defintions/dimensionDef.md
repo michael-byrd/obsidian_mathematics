@@ -1,0 +1,1 @@
+**Dimension** - The unique number of vectors in each basis for $V$ is called the dimension of $V$ and is denoted by $\dim(V).$ 

@@ -1,0 +1,1 @@
+**Spanning Set** - A subset $S$ of a vector space $V$ spans $V$ if $\operatorname{span}(S) = V.$ In this case, we also say that $S$ is a *spanning set* of $V.$

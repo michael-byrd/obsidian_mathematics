@@ -1,0 +1,16 @@
+{
+  "customFolder": "Day Planners",
+  "mode": 0,
+  "mermaid": false,
+  "notesToDates": [
+    {
+      "notePath": "Day Planner Testing.md",
+      "date": "Sat Feb 12 2022"
+    }
+  ],
+  "completePastItems": false,
+  "circularProgress": true,
+  "nowAndNextInStatusBar": true,
+  "showTaskNotification": false,
+  "timelineZoomLevel": 5
+}

@@ -1,0 +1,2 @@
+**Field** - A field is a set $F$ together with two binary operations $+$ and $\cdot$ such that $(F,+)$ is an [[abelian_def|abelian]] [[group_def|group]] and $(F\setminus\{0\}, \cdot)$ is also an abelian group, and the following distributive law holds:
+$$a\cdot(b+c) = (a\cdot b)+(a \cdot c), \ \text{ for all } a,b,c \in F.$$

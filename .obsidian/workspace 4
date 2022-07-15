@@ -1,0 +1,111 @@
+{
+  "main": {
+    "id": "532183694bdcc709",
+    "type": "split",
+    "children": [
+      {
+        "id": "abaa393a5c9e2673",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "linear_algebra/topical_notes/directSumTopic.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "803c4d27ddf217df",
+    "type": "split",
+    "children": [
+      {
+        "id": "97dba44f821c3b9f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2452197e87e1ed5c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7fa4bd366e98d328",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7194a3c5c9688c57",
+    "type": "split",
+    "children": [
+      {
+        "id": "d34d44f8b400412a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a5d6b62f918e6de",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "4d8cf3cb105d97f9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "linear_algebra/topical_notes/directSumTopic.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "abaa393a5c9e2673",
+  "lastOpenFiles": [
+    "linear_algebra/defintions/spanningSetDef.md",
+    "linear_algebra/defintions/infiniteDimensionalDef.md",
+    "linear_algebra/defintions/finiteDimensionalDef.md",
+    "linear_algebra/theorems/unsorted_theorems.md",
+    "Linear Algebra.md",
+    "Daily Notes/Brain Dump.md",
+    "research/Journal.md",
+    "research/group_presentations/2020_02_09/presentation notes.md",
+    "research/group_presentations/2022_03_09.md",
+    "linear_algebra/todo_linearAlgebra.md"
+  ]
+}

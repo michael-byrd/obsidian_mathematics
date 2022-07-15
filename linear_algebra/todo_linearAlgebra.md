@@ -1,0 +1,39 @@
+Friedberg, Insel, and Spence Todo
+- [ ] Chapter 1
+	- [x] Section 1 
+	- [ ] Section 2
+		- [ ] Theorem 1.1 Cencellation Law for Vector Addition p 11
+			- [ ] Corollary 1 p 11
+			- [ ] Corollary 2 p 12
+		- [ ] Theorem 1.2 properties of vectors p 12
+	- [ ] Section 3
+		- [x] Theorem 1.3 Subspace criterion 
+		- [x] Theorem 1.4 Intersection is a subspace
+	- [ ] Section 4
+		- [ ] Definition for Span
+		- [x] Theorem 1.5
+		- [ ] Definition for generates. check [[spanningSetDef]]
+	- [ ] Section 5
+		- [x] Theorem 1.6
+			- [x] Corollary
+		- [x] Theorem 1.7
+	- [ ] Section 6
+		- [x] Theorem 1.8
+		- [x] Theorem 1.9
+		- [x] Theorem 1.10
+			- [x] Corollary 1
+			- [x] Corollary 2
+		- [x] Definition finite-dimensional
+		- [x] Theorem 1.11
+			- [x] Corollary
+		- [ ] Lagrange interpolation and polynomials
+	- [ ] Section 7
+		- [ ] Everything
+- [ ] Chapter 2
+	- [ ] Section 1
+	- [ ] Section 2
+	- [ ] Section 3
+	- [ ] Section 4
+	- [ ] Section 5
+	- [ ] Section 6
+	- [ ] Section 7

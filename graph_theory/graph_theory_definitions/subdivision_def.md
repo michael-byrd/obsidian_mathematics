@@ -1,0 +1,1 @@
+**Subdivision** - Let $X$ be a graph. If we replace the edges of $X$ with independent paths between their ends, we obtain a *subdivision* of $X.$

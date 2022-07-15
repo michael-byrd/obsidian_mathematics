@@ -1,0 +1,1 @@
+**Linear Combination** - Let $V$ be a vector space over the field $F$ and let $v_1, \ldots, v_n$ be elements of $V.$ Let $a_1, \ldots, a_n$ be in $F.$ The expression$$a_1v_1 + \cdots + a_nv_n$$ is called a *linear combination* of $v_1, \ldots v_n,$

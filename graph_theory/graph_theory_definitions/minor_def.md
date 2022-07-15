@@ -1,0 +1,1 @@
+**Minor** - If we begin with a graph $Y,$ then delete some edges to form $G$, and then partition the vertex set into connected subgraphs, we can obtain a graph $X$ by [[contraction_def|contracting]] each of these components. We say that $X$ is a *minor* of $Y,$ or symbolically $X \preceq Y.$

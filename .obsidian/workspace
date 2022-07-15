@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "linear_algebra/topical_notes/directSumTopic.md",
+            "file": "abstract_algebra/daily_abstract_algebra/abstract_algebra_2022_07_13.md",
             "mode": "source",
             "source": false
           }
@@ -19,66 +19,81 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "fdafbed9a76b27d8",
-    "type": "mobile-drawer",
+    "id": "842d047ff3bafcbb",
+    "type": "split",
     "children": [
       {
-        "id": "3eb951d2b80c6e38",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "e2d1fbd736fcae67",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "27fcd810866ccfd6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f04d597d52999f4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "43304343da12ad59",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300
   },
   "right": {
-    "id": "f1f57299a9511e8e",
-    "type": "mobile-drawer",
+    "id": "303535a54610af95",
+    "type": "split",
     "children": [
       {
-        "id": "4c3c9723739bab49",
-        "type": "leaf",
-        "state": {
-          "type": "calendar",
-          "state": {}
-        }
-      },
-      {
-        "id": "c2bc14490c588266",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "linear_algebra/topical_notes/directSumTopic.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "04a6ce0b92c4ee3b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3cd680737b2b6ef9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "abstract_algebra/daily_abstract_algebra/abstract_algebra_2022_07_13.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9597adc88e146c4c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
   "active": "abaa393a5c9e2673",
   "lastOpenFiles": [

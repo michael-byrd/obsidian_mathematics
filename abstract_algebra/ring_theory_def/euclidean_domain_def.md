@@ -1,0 +1,1 @@
+**Euclidean Domain** - An integral domain $R$ is a *Euclidean domain* if there exists a [[norm_def|norm]] $N$ on $R$ such that all pairs of elements $a,b \in R$ with $b\neq 0,$ there exists $q,r \in R$ such that $a = qb + r$ with $r = 0$ or $N(r) < N(b).$  

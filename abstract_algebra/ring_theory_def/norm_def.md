@@ -1,0 +1,1 @@
+**Norm** - Let $R$ be an integral domain. A *norm* is function $N:R \rightarrow \mathbb{N}$ where $N(0) = 0.$ If $N(a) > 0$ for all $a \neq 0,$ then $N$ is a *positive norm.*

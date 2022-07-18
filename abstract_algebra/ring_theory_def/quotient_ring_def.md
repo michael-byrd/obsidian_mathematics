@@ -1,0 +1,1 @@
+**Quotient Ring** - Let $R$ be a [[ring_def|ring]] and $I$ an [[ideal_def|ideal]] of $R.$ Then the additive cosets of the form $a+I$ form a ring where $$\begin{align*} (a+I)+(b+I) &= (a+b)+I, \\ (a+I)\times(b+I) &= ab+I. \end{align*}$$ A ring of this form is called a *quotient ring.*

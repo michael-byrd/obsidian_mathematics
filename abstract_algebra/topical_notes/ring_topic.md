@@ -15,7 +15,7 @@ cssclass: clean-embeds
 2. For all $a,b \in R, (-a)b = a(-b) = -(ab).$
 3. For all $a,b \in R, (-a)(-b) = ab.$
 4. Let $1 \in R,$ then $1$ is unique.
-5. Let $1 \in R, $ then $-a = (-1)a.$ 
+5. Let $1 \in R,$ then $-a = (-1)a.$ 
 ## Element Properties
 * ![[zero_divisor_def]]
 * ![[unit_def]]
@@ -33,3 +33,8 @@ cssclass: clean-embeds
 * $(2\mathbb{Z}, +, \times)$ under standard addition and multiplication is a commutative ring without identity. 
 * $(\mathbb{Q}, +, \times),(\mathbb{R}, +, \times),$ and $(\mathbb{C}, +, \times)$ are all fields.
 * The ring of real quaternions is a division ring that is not a field.
+
+#### Related Topics
+[[subring_topic|Subrings]]
+[[ideal_topic|Ideals]]
+[[ring_homomorphism_topic|Ring Homomorphisms]]

@@ -1,0 +1,1 @@
+**Trivial Ideal** - Let $I$ be an ideal of a ring $R.$ $I$ is a *proper ideal* if $I = \{0\}.$

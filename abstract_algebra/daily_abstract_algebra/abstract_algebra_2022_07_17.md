@@ -1,0 +1,1 @@
+Let $R$ be a ring and $S\subseteq R.$ Let $RS$ be the set of all finite sums of the form $rs$ with $r \in R$ and $s \in S.$ When $S = \emptyset, RS = \{0\}.$ This might not be a subring of $R.$
